@@ -1,4 +1,4 @@
-# KakaoTalk Epic Games Notifier
+# Epic Games KaKaotalk Notifier
 ## Repository Description:
 
 이 프로젝트는 에픽게임즈 스토어에서 매주 제공되는 무료 게임 이벤트에 대한 정보를 자동으로 수집하고, 해당 정보를 카카오톡을 통해 사용자에게 알려주는 애플리케이션입니다. 에픽게임즈 스토어의 데이터 수집 정책을 준수하기 위해, 이 앱은 RAPID API를 통해 무료 게임 데이터를 수집합니다. 수집된 데이터는 카카오톡 메시지 형태로 가공되어 전송됩니다.
