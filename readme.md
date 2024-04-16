@@ -17,4 +17,4 @@ RAPID API를 통한 자동 데이터 수집: 에픽게임즈 스토어의 데이
 - **app.py**: 위 모든 모듈을 사용하여 매주 업데이트되는 무료 게임 정보를 사용자에게 자동으로 보내는 실행 파일입니다.
 
 
-이 앱은 NAVER CLOUD PLATFORM을 통해 자동화되어 배포되었습니다. 이 앱과 관련된 더 자세한 정보와 사용 방법은 제 블로그(https://pixelpenguin.tistory.com/)에서 확인할 수 있습니다.
+이 앱은 NAVER CLOUD PLATFORM을 통해 자동화되어 배포되었습니다. 이 앱과 관련된 더 자세한 정보와 사용 방법은 제 블로그(https://pixelpenguin.tistory.com/) 에서 확인할 수 있습니다.
